@@ -1,6 +1,4 @@
-html {
-    scroll-behavior: smooth;
-  }
+
   
   body {
     font-family: "Roboto", sans-serif;
@@ -183,7 +181,7 @@ html {
     letter-spacing: 0.02em;
     /* margin-bottom: 72px;*/
     text-align: center; 
-    text-transform: capitalize;
+    /* text-transform: capitalize; */
   }
   
   .block-header {
