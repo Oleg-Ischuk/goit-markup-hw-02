@@ -35,7 +35,7 @@ html {
   header {
     /* display: flex; */
     background-color: #e7e9fc;
-    justify-content: space-between;
+    /* justify-content: space-between; */
     /* padding: 24px 156px; */
   }
   
