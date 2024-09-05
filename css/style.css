@@ -145,8 +145,8 @@ html {
     align-items: center; 
     justify-content: center;*/
     background-color: #2e2f42;
-    /* text-align: center;
-    min-height: 600px; */
+    text-align: center;
+    /*min-height: 600px; */
   }
   
   .hero-heading {
@@ -181,8 +181,8 @@ html {
     font-size: 36px;
     line-height: 1.11;
     letter-spacing: 0.02em;
-    /* margin-bottom: 72px;
-    text-align: center; */
+    /* margin-bottom: 72px;*/
+    text-align: center; 
     text-transform: capitalize;
   }
   
