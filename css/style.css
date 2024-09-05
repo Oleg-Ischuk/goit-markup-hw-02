@@ -221,14 +221,14 @@ html {
    */
   .team li {
     background-color: #ffffff;
-    border-radius: 0 0 4px 4px;
+    /* border-radius: 0 0 4px 4px;
     padding-bottom: 32px;
-    text-align: center;
+    text-align: center; */
   }
   
-  .team img {
+  /* .team img {
     margin-bottom: 32px;
-  }
+  } */
   
   /* .portfolio ul {
     display: flex;
